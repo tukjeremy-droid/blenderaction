@@ -39,6 +39,7 @@ RUN apt-get update && apt-get install -y --no-install-recommends \
     libgl1 \
     libglx0 \
     libegl1 \
+    libvulkan1 \
     libegl-mesa0 \
     libglu1-mesa \
     libepoxy0 \
